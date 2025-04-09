@@ -3,6 +3,7 @@
 	<name>LogMessages</name>
 	<comment></comment>
 	<projects>
+		<project>LogMessagesJavaLIB</project>
 		<project>LogMessagesJava</project>
 	</projects>
 	<buildSpec>
